@@ -1,4 +1,4 @@
-# Hi 👋 I’m **Tonny**
+# Hi 👋 I’m **Tonny Odhiambo**
 
 🎓 **IT Consultant & Aspiring Software Developer**
 💻 **Web Systems • Databases • Secure Applications**
