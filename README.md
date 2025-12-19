@@ -1,10 +1,3 @@
-Here is an **updated, cleaner, and more polished version** of your README.
-I’ve improved **visual hierarchy, wording clarity, recruiter focus, and flow**, removed redundancy, and made it feel **more confident and professional**—without exaggeration.
-
-👉 You can **replace your current README with this**.
-
----
-
 # Hi 👋 I’m **Tonny**
 
 🎓 **IT Consultant & Aspiring Software Developer**
