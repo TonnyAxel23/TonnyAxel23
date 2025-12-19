@@ -1,14 +1,21 @@
-# Hi 👋 I’m **Tonny**
+Here is an **updated, cleaner, and more polished version** of your README.
+I’ve improved **visual hierarchy, wording clarity, recruiter focus, and flow**, removed redundancy, and made it feel **more confident and professional**—without exaggeration.
 
-🎓 **IT Consultant & Aspiring Software Developer**
-💻 **Web Systems | Databases | Secure Applications**
-🌍 **Kenya**
-
-🚀 Passionate about building **real-world, scalable, and secure web systems** that solve practical problems using modern technologies.
+👉 You can **replace your current README with this**.
 
 ---
 
-## 🧑‍💻 GitHub Overview
+# Hi 👋 I’m **Tonny**
+
+🎓 **IT Consultant & Aspiring Software Developer**
+💻 **Web Systems • Databases • Secure Applications**
+🌍 **Kenya**
+
+🚀 Passionate about designing and building **scalable, secure, and real-world web systems** that solve practical problems and improve efficiency.
+
+---
+
+## 🧑‍💻 GitHub Snapshot
 
 ![GitHub followers](https://img.shields.io/github/followers/TonnyAxel23?label=Followers\&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/TonnyAxel23?label=Stars\&style=for-the-badge)
@@ -18,17 +25,17 @@
 
 ## 🧠 About Me
 
-I am an IT consultant and IT student with hands-on experience in building **database-driven web applications**. I enjoy turning ideas into functional systems that improve efficiency, transparency, and user experience.
+I am an **IT consultant and IT student** with hands-on experience building **database-driven web applications**. I focus on creating systems that are **functional, secure, and user-friendly**, with a strong emphasis on real-world applicability.
 
-💡 **My learning philosophy:**
+💡 **Learning mindset:**
 **Build → Break → Fix → Improve**
 
-### Areas of Interest
+### Core Interests
 
 * Web application development
 * Information systems & digital transformation
-* Secure database design
-* Solving real-world problems using technology
+* Secure and optimized database design
+* Solving real-world challenges through technology
 
 ---
 
@@ -56,31 +63,31 @@ I am an IT consultant and IT student with hands-on experience in building **data
 
 ### 🔹 **Digital Land Management System (DLMS)**
 
-A virtual land registration and management platform aimed at improving transparency and efficiency.
+A virtual land registration and management platform focused on **transparency, security, and efficiency**.
 
-**Highlights**
+**Key Highlights**
 
 * Secure user authentication & role-based access control
-* Full CRUD operations for land records
-* Optimized and secure database design
-* Admin dashboard for system control
+* Complete CRUD operations for land records
+* Optimized and secure database architecture
+* Admin dashboard for system management
 
 ---
 
 ### 🔹 **QNow – Virtual Queue Management System**
 
-A digital solution for managing service queues efficiently.
+A digital solution designed to **streamline service delivery** through effective queue management.
 
-**Highlights**
+**Key Highlights**
 
-* Separate dashboards for customers, staff, and administrators
-* PHP & MySQL backend architecture
-* Clean, user-friendly UI/UX
-* Designed for real-world scalability
+* Dedicated dashboards for customers, staff, and administrators
+* PHP & MySQL backend implementation
+* Clean, intuitive UI/UX
+* Built with real-world scalability in mind
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnyAxel23&show_icons=true&theme=tokyonight" height="170"/>
@@ -97,19 +104,19 @@ A digital solution for managing service queues efficiently.
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
 * Advanced PHP & MySQL optimization
 * Backend security (SQL Injection & XSS prevention)
 * System architecture & API integration
-* Flutter for mobile app development
+* Flutter for mobile application development
 
 ---
 
 ## 🤝 Open To
 
 * IT attachment / internship opportunities
-* Collaboration on meaningful student or community projects
+* Collaboration on meaningful student or community-based projects
 * Open-source contributions
 
 ---
@@ -122,4 +129,4 @@ A digital solution for managing service queues efficiently.
 
 ---
 
-⭐ *Explore my repositories, review my work, and follow my journey as I grow in tech.*
+⭐ *Explore my repositories, review my work, and follow my growth as I continue building impactful tech solutions.*
