@@ -1,10 +1,10 @@
 # Hi 👋 I’m **Tonny Odhiambo**
 
 🎓 **IT Consultant & Aspiring Software Developer**
-💻 **Web Systems • Databases • Secure Applications**
+💻 **Web Systems • Databases • Cybersecurity**
 🌍 **Kenya**
 
-🚀 Passionate about designing and building **scalable, secure, and real-world web systems** that solve practical problems and improve efficiency.
+🚀 Passionate about designing and building **secure, scalable, and real-world web systems**, with a strong interest in **cybersecurity and system protection**.
 
 ---
 
@@ -18,15 +18,16 @@
 
 ## 🧠 About Me
 
-I am an **IT consultant and IT student** with hands-on experience building **database-driven web applications**. I focus on creating systems that are **functional, secure, and user-friendly**, with a strong emphasis on real-world applicability.
+I am an **IT consultant and IT student** with hands-on experience in building **database-driven web applications** and a growing focus on **cybersecurity best practices**. I enjoy developing systems that are **functional, user-friendly, and secure by design**.
 
 💡 **Learning mindset:**
-**Build → Break → Fix → Improve**
+**Build → Break → Secure → Improve**
 
 ### Core Interests
 
 * Web application development
 * Information systems & digital transformation
+* **Cybersecurity (application & database security)**
 * Secure and optimized database design
 * Solving real-world challenges through technology
 
@@ -43,6 +44,14 @@ I am an **IT consultant and IT student** with hands-on experience building **dat
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
+### 🔐 Security & Dev Practices
+
+* SQL Injection & XSS prevention
+* Secure authentication & authorization
+* Input validation & password hashing
+* Role-based access control (RBAC)
+* Secure database design
+
 ### 🧰 Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
@@ -56,11 +65,12 @@ I am an **IT consultant and IT student** with hands-on experience building **dat
 
 ### 🔹 **Digital Land Management System (DLMS)**
 
-A virtual land registration and management platform focused on **transparency, security, and efficiency**.
+A virtual land registration and management platform focused on **security, transparency, and efficiency**.
 
 **Key Highlights**
 
 * Secure user authentication & role-based access control
+* Protection against SQL injection and XSS attacks
 * Complete CRUD operations for land records
 * Optimized and secure database architecture
 * Admin dashboard for system management
@@ -69,14 +79,14 @@ A virtual land registration and management platform focused on **transparency, s
 
 ### 🔹 **QNow – Virtual Queue Management System**
 
-A digital solution designed to **streamline service delivery** through effective queue management.
+A digital solution designed to **streamline service delivery** while maintaining system security.
 
 **Key Highlights**
 
 * Dedicated dashboards for customers, staff, and administrators
-* PHP & MySQL backend implementation
+* Secure PHP & MySQL backend
 * Clean, intuitive UI/UX
-* Built with real-world scalability in mind
+* Built with real-world scalability and security in mind
 
 ---
 
@@ -100,8 +110,8 @@ A digital solution designed to **streamline service delivery** through effective
 ## 📚 Currently Learning
 
 * Advanced PHP & MySQL optimization
-* Backend security (SQL Injection & XSS prevention)
-* System architecture & API integration
+* Web & database security (OWASP Top 10)
+* Secure system architecture & API protection
 * Flutter for mobile application development
 
 ---
@@ -109,7 +119,7 @@ A digital solution designed to **streamline service delivery** through effective
 ## 🤝 Open To
 
 * IT attachment / internship opportunities
-* Collaboration on meaningful student or community-based projects
+* Cybersecurity & web development collaborations
 * Open-source contributions
 
 ---
@@ -122,4 +132,6 @@ A digital solution designed to **streamline service delivery** through effective
 
 ---
 
-⭐ *Explore my repositories, review my work, and follow my growth as I continue building impactful tech solutions.*
+⭐ *Explore my repositories and follow my journey as I build **secure, impactful, and scalable tech solutions**.*
+
+
