@@ -1,3 +1,12 @@
+<div align="center">
+  ████████╗ ██████╗ ███╗   ██╗███╗   ██╗██╗   ██╗
+╚══██╔══╝██╔═══██╗████╗  ██║████╗  ██║╚██╗ ██╔╝
+   ██║   ██║   ██║██╔██╗ ██║██╔██╗ ██║ ╚████╔╝ 
+   ██║   ██║   ██║██║╚██╗██║██║╚██╗██║  ╚██╔╝  
+   ██║   ╚██████╔╝██║ ╚████║██║ ╚████║   ██║   
+   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝   
+   DIGITAL ARCHITECT | NEURAL SECURITY ENGINEER
+</div>
 # Hi 👋 I’m **Tonny Odhiambo**
 
 🎓 **IT Consultant & Aspiring Software Developer**
