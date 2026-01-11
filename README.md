@@ -1,107 +1,96 @@
-# 👋 Hi, I’m **Tonny Odhiambo**
+# Hi 👋 I’m **Tonny Odhiambo**
 
-🧠 **IT Consultant | Software Engineer in Progress**  
-🔐 **Secure Systems • Web Engineering • Databases**  
-🌍 **Based in Kenya**
+🎓 **IT Consultant & Aspiring Software Developer**
+💻 **Web Systems • Databases • Cybersecurity**
+🌍 **Kenya**
 
-> 🚀 *Building the future of digital systems — secure by design, scalable by nature.*
-
-I focus on creating **real-world, production-ready web systems** with an emphasis on **security, performance, and clean architecture**. I believe great systems are not just built — they are **hardened, tested, and continuously improved**.
+🚀 Passionate about designing and building **secure, scalable, and real-world web systems**, with a strong interest in **cybersecurity and system protection**.
 
 ---
 
-## ⚡ GitHub Pulse
+## 🧑‍💻 GitHub Snapshot
 
-![Followers](https://img.shields.io/github/followers/TonnyAxel23?label=Followers&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/TonnyAxel23?label=Stars&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=TonnyAxel23&style=for-the-badge)
-
----
-
-## 🧬 System Profile
-
-👨‍💻 **IT Consultant & IT Student**  
-🔍 Experience building **database-driven web platforms**  
-🛡️ Strong interest in **cybersecurity & system protection**  
-🎯 Goal-oriented, detail-driven, security-first thinker
-
-### 🧠 Engineering Philosophy
-Design → Build → Break → Secure → Optimize → Scale
-
-
+![GitHub followers](https://img.shields.io/github/followers/TonnyAxel23?label=Followers\&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/TonnyAxel23?label=Stars\&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=TonnyAxel23\&style=for-the-badge)
 
 ---
 
-## 🎯 Core Focus Areas
+## 🧠 About Me
 
-- 🌐 Web application engineering  
-- 🗄️ Secure & optimized database systems  
-- 🔐 Cybersecurity (Application & Database layer)  
-- 🧩 Information systems & digital transformation  
-- 🛠️ Solving real-world problems with technology
+I am an **IT consultant and IT student** with hands-on experience in building **database-driven web applications** and a growing focus on **cybersecurity best practices**. I enjoy developing systems that are **functional, user-friendly, and secure by design**.
 
----
+💡 **Learning mindset:**
+**Build → Break → Secure → Improve**
 
-## 🛠️ Tech Arsenal
+### Core Interests
 
-### 💻 Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge&logo=node.js&logoColor=white)
+* Web application development
+* Information systems & digital transformation
+* **Cybersecurity (application & database security)**
+* Secure and optimized database design
+* Solving real-world challenges through technology
 
 ---
 
-### 🔐 Security Engineering
+## 🛠️ Tech Stack
 
-- SQL Injection & XSS mitigation  
-- Secure authentication & authorization flows  
-- Password hashing & input validation  
-- Role-Based Access Control (RBAC)  
-- Secure relational database design  
+### 💻 Languages & Technologies
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### 🧰 Dev Tools & Platforms
+### 🔐 Security & Dev Practices
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* SQL Injection & XSS prevention
+* Secure authentication & authorization
+* Input validation & password hashing
+* Role-based access control (RBAC)
+* Secure database design
 
----
+### 🧰 Tools & Platforms
 
-## 🚀 Flagship Projects
-
-### 🛰️ **Digital Land Management System (DLMS)**
-
-A **secure virtual land registration platform** built to enhance transparency, efficiency, and trust.
-
-**Highlights**
-- JWT-based authentication & RBAC  
-- SQL Injection & XSS protection  
-- Full CRUD lifecycle for land records  
-- Optimized, normalized database schema  
-- Administrative dashboard & system controls  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=apache\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-### 🚦 **QNow – Virtual Queue Management System**
+## 📌 Featured Projects
 
-A smart service-delivery platform designed for **scalability, usability, and security**.
+### 🔹 **Digital Land Management System (DLMS)**
 
-**Highlights**
-- Multi-role dashboards (Customer | Staff | Admin)  
-- Secure PHP & MySQL backend  
-- Clean, modern UI/UX  
-- Built with real-world deployment in mind  
+A virtual land registration and management platform focused on **security, transparency, and efficiency**.
+
+**Key Highlights**
+
+* Secure user authentication & role-based access control
+* Protection against SQL injection and XSS attacks
+* Complete CRUD operations for land records
+* Optimized and secure database architecture
+* Admin dashboard for system management
 
 ---
 
-## 📈 GitHub Analytics
+### 🔹 **QNow – Virtual Queue Management System**
+
+A digital solution designed to **streamline service delivery** while maintaining system security.
+
+**Key Highlights**
+
+* Dedicated dashboards for customers, staff, and administrators
+* Secure PHP & MySQL backend
+* Clean, intuitive UI/UX
+* Built with real-world scalability and security in mind
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnyAxel23&show_icons=true&theme=tokyonight" height="170"/>
@@ -110,7 +99,7 @@ A smart service-delivery platform designed for **scalability, usability, and sec
 
 ---
 
-## 🔥 Consistency Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TonnyAxel23&theme=tokyonight"/>
@@ -118,29 +107,29 @@ A smart service-delivery platform designed for **scalability, usability, and sec
 
 ---
 
-## 📚 Currently Powering Up
+## 📚 Currently Learning
 
-- Advanced PHP & MySQL performance tuning  
-- OWASP Top 10 & secure coding practices  
-- Secure system & API architecture  
-- Flutter for cross-platform mobile apps  
-
----
-
-## 🤝 Open For
-
-- IT Attachment / Internship roles  
-- Cybersecurity & web engineering collaborations  
-- Open-source contributions  
+* Advanced PHP & MySQL optimization
+* Web & database security (OWASP Top 10)
+* Secure system architecture & API protection
+* Flutter for mobile application development
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Open To
 
-![GitHub](https://img.shields.io/badge/GitHub-TonnyAxel23-181717?style=for-the-badge&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Tonny%20Odhiambo-0A66C2?style=for-the-badge&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-tonnyodhiambo49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+* IT attachment / internship opportunities
+* Cybersecurity & web development collaborations
+* Open-source contributions
 
 ---
 
-⭐ *Follow my journey as I engineer **secure, scalable, and impactful digital systems**.*
+## 📫 Let’s Connect
+
+![GitHub](https://img.shields.io/badge/GitHub-TonnyAxel23-181717?style=for-the-badge\&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Tonny%20Odhiambo-0A66C2?style=for-the-badge\&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-tonnyodhiambo49@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
+
+---
+
+⭐ *Explore my repositories and follow my journey as I build **secure, impactful, and scalable tech solutions**.*
