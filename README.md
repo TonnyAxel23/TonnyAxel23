@@ -1,107 +1,107 @@
+# 👋 Hi, I’m **Tonny Odhiambo**
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I’m+Tonny+Odhiambo;IT+Consultant+%7C+Secure+Systems+Builder;Web+Engineering+%26+Cybersecurity;Design.+Build.+Secure.+Scale." />
-</p>
+🧠 **IT Consultant | Software Engineer in Progress**  
+🔐 **Secure Systems • Web Engineering • Databases**  
+🌍 **Based in Kenya**
 
-<!-- ===================== TERMINAL INTRO ===================== -->
-```bash
-$ whoami
-Tonny Odhiambo
+> 🚀 *Building the future of digital systems — secure by design, scalable by nature.*
 
-$ role
-IT Consultant | Software Engineer (In Progress)
+I focus on creating **real-world, production-ready web systems** with an emphasis on **security, performance, and clean architecture**. I believe great systems are not just built — they are **hardened, tested, and continuously improved**.
 
-$ focus
-Secure Web Systems • Databases • Cybersecurity
+---
 
-$ location
-Kenya
+## ⚡ GitHub Pulse
 
-$ philosophy
+![Followers](https://img.shields.io/github/followers/TonnyAxel23?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/TonnyAxel23?label=Stars&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TonnyAxel23&style=for-the-badge)
+
+---
+
+## 🧬 System Profile
+
+👨‍💻 **IT Consultant & IT Student**  
+🔍 Experience building **database-driven web platforms**  
+🛡️ Strong interest in **cybersecurity & system protection**  
+🎯 Goal-oriented, detail-driven, security-first thinker
+
+### 🧠 Engineering Philosophy
 Design → Build → Break → Secure → Optimize → Scale
-````
+
+
 
 ---
 
-## ⚡ System Status
+## 🎯 Core Focus Areas
 
-![Followers](https://img.shields.io/github/followers/TonnyAxel23?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/TonnyAxel23?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=TonnyAxel23\&style=for-the-badge)
-
----
-
-## 🧬 About.exe
-
-```txt
-> Initializing profile...
-> Loading experience...
-> Applying security-first mindset...
-
-I am an IT consultant and IT student specializing in
-database-driven web applications with a strong focus
-on cybersecurity and system protection.
-
-Status: ACTIVE
-Security Level: HIGH
-Learning Mode: ENABLED
-```
+- 🌐 Web application engineering  
+- 🗄️ Secure & optimized database systems  
+- 🔐 Cybersecurity (Application & Database layer)  
+- 🧩 Information systems & digital transformation  
+- 🛠️ Solving real-world problems with technology
 
 ---
 
-## 🛠 Tech Stack [Loaded]
+## 🛠️ Tech Arsenal
 
-### 💻 Languages & Platforms
+### 💻 Languages & Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
----
-
-### 🔐 Security Modules
-
-```txt
-✔ SQL Injection Prevention
-✔ XSS Mitigation
-✔ Secure Authentication
-✔ Password Hashing
-✔ RBAC (Role-Based Access Control)
-✔ Secure Database Design
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 🚀 Active Projects
+### 🔐 Security Engineering
 
-### 🛰 Digital Land Management System (DLMS)
-
-```txt
-> Secure land registry system
-> Authentication: ENABLED
-> Authorization: RBAC
-> Threat Protection: ACTIVE
-> Database Integrity: VERIFIED
-```
+- SQL Injection & XSS mitigation  
+- Secure authentication & authorization flows  
+- Password hashing & input validation  
+- Role-Based Access Control (RBAC)  
+- Secure relational database design  
 
 ---
 
-### 🚦 QNow – Virtual Queue Management System
+### 🧰 Dev Tools & Platforms
 
-```txt
-> Multi-role dashboards
-> PHP + MySQL backend
-> Clean UI/UX
-> Security-first architecture
-```
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Metrics
+## 🚀 Flagship Projects
+
+### 🛰️ **Digital Land Management System (DLMS)**
+
+A **secure virtual land registration platform** built to enhance transparency, efficiency, and trust.
+
+**Highlights**
+- JWT-based authentication & RBAC  
+- SQL Injection & XSS protection  
+- Full CRUD lifecycle for land records  
+- Optimized, normalized database schema  
+- Administrative dashboard & system controls  
+
+---
+
+### 🚦 **QNow – Virtual Queue Management System**
+
+A smart service-delivery platform designed for **scalability, usability, and security**.
+
+**Highlights**
+- Multi-role dashboards (Customer | Staff | Admin)  
+- Secure PHP & MySQL backend  
+- Clean, modern UI/UX  
+- Built with real-world deployment in mind  
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnyAxel23&show_icons=true&theme=tokyonight" height="170"/>
@@ -110,7 +110,7 @@ Learning Mode: ENABLED
 
 ---
 
-## 🔥 Commit Streak
+## 🔥 Consistency Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TonnyAxel23&theme=tokyonight"/>
@@ -118,55 +118,29 @@ Learning Mode: ENABLED
 
 ---
 
-## 📚 Currently Loading...
+## 📚 Currently Powering Up
 
-```txt
-▢ Advanced PHP & MySQL Optimization
-▢ OWASP Top 10
-▢ Secure API Architecture
-▢ Flutter (Mobile Development)
-```
+- Advanced PHP & MySQL performance tuning  
+- OWASP Top 10 & secure coding practices  
+- Secure system & API architecture  
+- Flutter for cross-platform mobile apps  
 
 ---
 
-## 🤝 Open Channels
+## 🤝 Open For
 
-```txt
-✓ IT Attachment / Internship
-✓ Cybersecurity Projects
-✓ Web Engineering Collaborations
-✓ Open Source Contributions
-```
+- IT Attachment / Internship roles  
+- Cybersecurity & web engineering collaborations  
+- Open-source contributions  
 
 ---
 
-## 📡 Connect
+## 🌐 Connect With Me
 
-![GitHub](https://img.shields.io/badge/GitHub-TonnyAxel23-181717?style=for-the-badge\&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Tonny%20Odhiambo-0A66C2?style=for-the-badge\&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-tonnyodhiambo49@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
-
----
-
-```bash
-$ echo "Building secure systems. One commit at a time."
-```
-
-```
+![GitHub](https://img.shields.io/badge/GitHub-TonnyAxel23-181717?style=for-the-badge&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Tonny%20Odhiambo-0A66C2?style=for-the-badge&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-tonnyodhiambo49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
-### ⚠️ Tips to make it even cooler
-- Use **JetBrains Mono** font (already applied)
-- Keep `theme=tokyonight` for cyber vibes
-- Pin DLMS & QNow repos for visual impact
-- Avoid too many GIFs (clean > flashy)
-
-If you want next:
-- 🧠 **Hacker-style green terminal**
-- ⚫ **Dark minimal terminal**
-- 🌌 **Cyberpunk neon version**
-- 🧑‍💼 **Recruiter-optimized animated version**
-
-Just say the word 😎
-```
+⭐ *Follow my journey as I engineer **secure, scalable, and impactful digital systems**.*
